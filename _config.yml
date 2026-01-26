@@ -21,14 +21,43 @@
 title: Caisson de Brass
 email: fanfaresolidaire2026@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Nous sommes trois musiciens, étudiants en école d'ingénieur, actuellement en année de césure. 
-  Nous partons en voyage musical et solidaire à travers l'Europe entre mars et août 2026. 
-  Notre groupe est composé d'Adam (batterie), Alexandre (sousaphone) et Maxime (saxophone ténor). 
+  Nous sommes trois musiciens, étudiants en école d'ingénieur, actuellement en année de césure. <br>
+  Nous partons en voyage musical et solidaire à travers l'Europe entre mars et août 2026. <br>
+  Notre groupe est composé d'Adam (batterie), Alexandre (sousaphone) et Maxime (saxophone ténor). <br> 
   Notre voyage en Europe passera dans des pays comme l'Autriche, la Pologne, la Roumanie, la Bosnie-Herzégovine ou encore la Croatie !
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
+# twitter_username: jekyllrb
+github_username:  caisson-de-brass
+
+
+footer_links:
+  - title: Instagram
+    url:  https://www.instagram.com/caisson_de_brass/
+    icon: fab fa-instagram
+  - title: Youtube
+    url: https://www.youtube.com/@CaissonDeBrass
+    icon: fab fa-youtube
+  # - title: Feed
+  #   url: atom.xml
+  #   icon: fas fa-rss-square
+
+# author:
+# #  name: Michael Rose
+# #  picture: /images/michael-rose-photo.jpg
+#   email: fanfaresolidaire2026@gmail.com
+#  # twitter: mmistakes
+#   links:
+#     # - title: Twitter
+#     #   url: https://twitter.com/mmistakes
+#     #   icon: fab fa-twitter-square
+#     - title: Instagram
+#       url: https://www.instagram.com/caisson_de_brass/
+#       icon: fab fa-instagram
+#     - title: Youtube
+#       url: https://www.youtube.com/@CaissonDeBrass
+#       icon: fab fa-youtube
 
 locale: "fr-FR"
 
