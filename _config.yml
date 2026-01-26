@@ -43,6 +43,8 @@ search_full_content: true
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
 
+logo: images/logo.png
+
 # Build settings
 theme: jekyll-theme-so-simple
 plugins:
