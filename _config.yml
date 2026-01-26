@@ -18,19 +18,33 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Caisson de Brass
+email: fanfaresolidaire2026@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Nous sommes trois musiciens, étudiants en école d'ingénieur, actuellement en année de césure. 
+  Nous partons en voyage musical et solidaire à travers l'Europe entre mars et août 2026. 
+  Notre groupe est composé d'Adam (batterie), Alexandre (sousaphone) et Maxime (saxophone ténor). 
+  Notre voyage en Europe passera dans des pays comme l'Autriche, la Pologne, la Roumanie, la Bosnie-Herzégovine ou encore la Croatie !
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+locale: "fr-FR"
+
+read_time: true
+words_per_minute: 200
+
+paginate: 10  # amount of posts to show per page
+paginate_path: /page:num/
+
+search_full_content: true
+
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
+
 # Build settings
-theme: minima
+theme: jekyll-theme-so-simple
 plugins:
   - jekyll-feed
 
