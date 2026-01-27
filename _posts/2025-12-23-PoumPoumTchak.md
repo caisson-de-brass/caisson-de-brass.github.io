@@ -12,6 +12,11 @@ title: Concert au bar Poum Poum T'chak
 
 Le 23 décembre 2025, nous avons joué le bar Poum Poum T'chack avec la Phanphare techno de Rennes (PTDR).
 
+<figure class="align-center">
+  <a href="#"><img src="{{ '/images/Poum Poum Tchack2.jpg' | absolute_url }}" alt=""></a>
+</figure> 
+
+
 Alexandre avait joué avec la PTDR quand il était à Rennes, et on a donc décidé de les invité à Nantes pour une soirée de fun et de bonne musique.
 
 Une vidéo de la PTDR : 
