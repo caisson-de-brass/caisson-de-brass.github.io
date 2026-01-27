@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Nous partons en voyage musical et solidaire à travers l'Europe entre mars et août 2026. <br>
   Notre groupe est composé d'Adam (batterie), Alexandre (sousaphone) et Maxime (saxophone ténor). <br> 
   Notre voyage en Europe passera dans des pays comme l'Autriche, la Pologne, la Roumanie, la Bosnie-Herzégovine ou encore la Croatie !
+  <iframe id="haWidgetButton" allowtransparency="true" src="https://www.helloasso.com/associations/fanfare-solidaire-nantes-2026/collectes/voyage-solidaire-en-europe/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -59,7 +60,7 @@ footer_links:
 #       url: https://www.youtube.com/@CaissonDeBrass
 #       icon: fab fa-youtube
 
-locale: "fr-FR"
+site.locale: "fr-FR"
 
 read_time: true
 words_per_minute: 200

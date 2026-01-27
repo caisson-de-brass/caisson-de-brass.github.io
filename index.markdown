@@ -5,5 +5,4 @@
 layout: home
 ---
 
-
-Pour nous soutenir : [La campagne de crowd funding](https://www.helloasso.com/associations/fanfare-solidaire-nantes-2026/collectes/voyage-solidaire-en-europe)
+<link rel="shortcut icon" type="image/png" href="images/favicon/favicon-32x32.png">
