@@ -18,6 +18,7 @@ gem "github-pages", "~> 232", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-theme-so-simple"
+  gem 'jekyll-seo-tag'
   gem "jekyll-paginate"
   gem 'jekyll_video'
 end
