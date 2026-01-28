@@ -1,6 +1,8 @@
 ---
 layout: search
 title: Rechercher
+permalink: /search/
+
 ---
 
 
